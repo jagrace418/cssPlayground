@@ -1,0 +1,22 @@
+
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.header-top a{
+    color: inherit;
+}
+
+header{
+    background-image: linear-gradient(to right, #a25b5b, #692e4c);
+}
+
+header h1{
+    margin-top: 0;
+    color: white;
+    font-size: 1.6em;
+}

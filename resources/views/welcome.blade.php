@@ -5,10 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="/css/app.css">
 	<link rel="stylesheet" href="/css/normalize.css">
+	<link rel="stylesheet" href="/css/header.css">
 	<title>Css Playground</title>
 </head>
 <body>
-<header>
+<header class="section">
 	<div class="container">
 		<div class="header-top">
 			<h1>Hello Im the logo</h1>
@@ -23,5 +24,67 @@
 		</nav>
 	</div>
 </header>
+<div class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+			<div class="col">
+				<div class="box">Text</div>
+			</div>
+
+		</div>
+	</div>
+</div>
 </body>
 </html>
