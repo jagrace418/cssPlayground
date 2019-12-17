@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/3', function (){
 	return view('ep3');
 });
+
+Route::get('/mobile', function (){
+	return view('mobile');
+});
